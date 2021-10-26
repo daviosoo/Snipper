@@ -1,0 +1,10 @@
+:root{
+
+    --black: #000;
+    --light-black: rgb(22, 22, 22);
+    --white: #fff;
+    --light-gray: #797878;
+    --gray: #383838;
+
+    --primary-font: 'Poppins', sans-serif;
+}
